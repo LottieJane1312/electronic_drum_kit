@@ -1,2 +1,2 @@
 # electronic_drum_kit
- Electronic Drum Kit
+ Electronic Drum Kit using .js HTML & CSS
